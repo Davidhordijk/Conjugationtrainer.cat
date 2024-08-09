@@ -1,0 +1,17 @@
+To start working on project:
+
+1. Open terminal.
+2. run: 
+ 	cd C:\Users\david\OneDrive\Documenten\Coding\Conjugationtrainer.cat
+3. run:
+	pipenv shell
+
+In VSCode:
+4. run:
+	python manage.py runserver
+
+
+
+Other commands:
+	To find path to virtual environment:
+		pipenv --venv
